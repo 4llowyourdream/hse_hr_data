@@ -8,8 +8,8 @@
 
 Имя | Вероятность выживания
 ------------ | -------------
-Лео |	13.74%
- Кейт |		26.61%
+Лео |		13.54%
+Кейт |		96.81%
 
 ### Ссылка на GoogleSheet: https://docs.google.com/spreadsheets/d/1izcz2RzYv-mEppu0HHF5ws9f3ZdHppOnI2XBzO2yyZA/edit?usp=sharing
 
